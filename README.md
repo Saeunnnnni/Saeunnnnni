@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=cc99FF&height=300&section=header&text=Hello%20I'm%20Sae%20eun&fontSize=60&&fontColor=ffffff)
+
+
+❤️CONTACT ME❤️
+
+![Static Badge](https://img.shields.io/badge/velog-%2320C997?link=https%3A%2F%2Fvelog.io%2F%40katejo6011)
+![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?label=%E2%9D%A4%EF%B8%8F&labelColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsaeunnnni_diary%2F)
