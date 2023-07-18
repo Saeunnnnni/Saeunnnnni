@@ -21,22 +21,16 @@ Here are some ideas to get you started:
 
 ### ❤️CONTACT ME❤️
 
- ![Static Badge](https://img.shields.io/badge/velog-%2320C997?link=https%3A%2F%2Fvelog.io%2F%40katejo6011)
-![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?label=%E2%9D%A4%EF%B8%8F&labelColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsaeunnnni_diary%2F)
- ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?label=%F0%9F%90%B1&link=https%3A%2F%2Fgithub.com%2FSaeunnnnni)
+ ![Static Badge](https://img.shields.io/badge/velog-%2320C997?link=https%3A%2F%2Fvelog.io%2F%40katejo6011) ![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?label=%E2%9D%A4%EF%B8%8F&labelColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsaeunnnni_diary%2F)  ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?label=%F0%9F%90%B1&link=https%3A%2F%2Fgithub.com%2FSaeunnnnni)
 
 ### My Skills
-<div class="box" style="display:flex">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeunnnnni)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeunnnnni&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeunnnnni)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeunnnnni&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saeunnnnni&theme=nord&hide_border=true)](https://git.io/streak-stats)
