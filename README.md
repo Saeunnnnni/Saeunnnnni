@@ -12,8 +12,8 @@
 <div align="center">
 
   
- <div>
-<img  style="width: 200px; height: 200px; border:1px solid #ffffff; border-radius: 50%;" src="https://github.com/Saeunnnnni/acorn-class/blob/main/html/images/rabbit.png"/>
+ <div  style="width: 200px; height: 200px; border:1px solid #ffffff; border-radius: 50%;" >
+<img src="https://github.com/Saeunnnnni/acorn-class/blob/main/html/images/rabbit.png"/>
 </div>
 
 <br/>
