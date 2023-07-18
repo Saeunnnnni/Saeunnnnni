@@ -12,20 +12,19 @@
 <div align="center">
 
   
-    <div style=" display: inline; ">
-        <img  style="width: 200px; height: 200px; border:1px solid #ffffff; border-radius: 50%;" src="./image/rabbit.png"/>
-    </div>
+ <div>
+<img  style="width: 200px; height: 200px; border:1px solid #ffffff; border-radius: 50%;" src="https://github.com/Saeunnnnni/acorn-class/blob/main/html/images/rabbit.png"/>
+</div>
 
-    <br>
+<br/>
 
-    <h3>I'm Sae Eun</h3>
-    <h3>Nice to meet you! 😊</h3>
+<h3>I'm Sae Eun</h3>
+ <h3>Nice to meet you! 😊</h3>
 
 
-    <br>
-    <br>
+<br/>
+<br/>
 
-    ---
 
 <h3> ❤️CONTACT ME❤️</h3>
 <div align="center">
